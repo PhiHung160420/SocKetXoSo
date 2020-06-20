@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Tuan3\Tuan3\bin\Debug\Tuan3.exe.config
+C:\Users\USER\source\repos\Tuan3\Tuan3\bin\Debug\Tuan3.exe
+C:\Users\USER\source\repos\Tuan3\Tuan3\bin\Debug\Tuan3.pdb
+C:\Users\USER\source\repos\Tuan3\Tuan3\obj\Debug\Tuan3.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Tuan3\Tuan3\obj\Debug\Tuan3.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Tuan3\Tuan3\obj\Debug\Tuan3.exe
+C:\Users\USER\source\repos\Tuan3\Tuan3\obj\Debug\Tuan3.pdb
